@@ -1,4 +1,4 @@
-# mashroomhighscore
+# mushroomhighscore
 
 This project builds a machine learning model that classifies mushrooms as:
 
