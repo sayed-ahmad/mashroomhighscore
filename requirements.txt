@@ -1,0 +1,5 @@
+streamlit>=1.55
+pyarrow>=23.0.1
+pandas>=2.3.3
+altair==6.0.0
+scikit-learn==1.8.0
